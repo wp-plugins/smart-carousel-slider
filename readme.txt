@@ -11,6 +11,8 @@ WP Smart Carousel Slider Plugin Super Lightweight, Fully Responsive and easy to 
 == Description ==
 
 In this smart carosuel slider you will get various style and feature with dynamic multiple Effect. Smart Carousel Slider it's supper easy to use.
+Use shortcode anywhere in your theme just  copy your shortcode and replace into this "YOUR_SHORTCODE" area to your shortcode 
+`<?php echo do_shortcode('YOUR_SHORTCODE'); ?>`
 
 <h3>Plugin Demo url:</h3> 
 
