@@ -10,9 +10,20 @@ WP Smart Carousel Slider Plugin Super Lightweight, Fully Responsive and easy to 
 
 == Description ==
 
-In this smart carosuel slider you will get various style and feature with dynamic multiple shortcode. Smart Carousel Slider it's supper easy to use.
+In this smart carosuel slider you will get various style and feature with dynamic multiple Effect. Smart Carousel Slider it's supper easy to use.
 
-<h3>Plugin Demo url:</h3> <a href="http://wppluginarea.com/smart-carousel-slider/" target="_blank">http://wppluginarea.com/smart-carousel-slider/</a>
+<h3>Plugin Demo url:</h3> 
+<a href="http://wppluginarea.com/smart-carousel-slider/" target="_blank">Live Demo</a>
+<a href="http://wppluginarea.com/smart-carousel-slider/" target="_blank">For More Info</a>
+
+<h3>Plugin Features:</h3>
+<ul>
+	<li>Super Lightweight</li>
+	<li>Multiple Effect</li>
+	<li>Fully Responsive</li>
+	<li>Multiple Uses</li>
+	<li>Various Option</li>
+</ul>
 
 <h3>Example-1</h3>
 <strong>Slider Default Shortcode</strong>
@@ -60,10 +71,13 @@ Just Contact Us Click Here: <a href="http://www.wppluginarea.com" target="_blank
 
 = Why this plugin has few options? =
 
-Soon premimum version will release there you can get lot's of more option and style.
+Soon premium version will release there you can get lot's of more option and style.
 
 == Screenshots ==
 
+1. Plugin shortcode button
+
+2. Shortcode Generator Option
 
 == Changelog ==
 
