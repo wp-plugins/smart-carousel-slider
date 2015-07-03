@@ -1,4 +1,4 @@
-=== WP Smart Carousel ===
+=== Smart Carousel Slider ===
 Tags: smart slider, carousel slider, images slider, jquery slider plugin, shortcode, responsive slider, content carousel, simple carosuel, responsive carosuel,
 Requires at least: 3.0.1
 Tested up to: 4.2.1
