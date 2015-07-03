@@ -21,6 +21,8 @@ Use shortcode anywhere in your theme just  copy your shortcode and replace into 
 	<li><a href="http://wppluginarea.com/smart-carousel-slider/" target="_blank">For More Info</a></li>
 </ul>
 
+https://www.youtube.com/watch?v=m8ENdNQB-Ac&feature=youtu.be
+
 <h3>Plugin Features:</h3>
 <ul>
 	<li>Super Lightweight</li>
