@@ -1,7 +1,7 @@
 === Smart Carousel Slider ===
 Tags: smart slider, carousel slider, images slider, jquery slider plugin, shortcode, responsive slider, content carousel, simple carosuel, responsive carosuel,
 Requires at least: 3.0.1
-Tested up to: 4.2.1
+Tested up to: 4.2.4
 Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
